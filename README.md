@@ -1,2 +1,2 @@
 # LinuxLabs-App
-LinuxLabs Application
+Contains all LinuxLabs app files
